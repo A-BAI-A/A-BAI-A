@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm A-BAI-A 👋
 
-<!--
-**A-BAI-A/A-BAI-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a student who enjoys learning about technology, exploring new ideas, and building useful projects. I am always working to improve my skills through practice and hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🌱 Learning something new every day
+- 💡 Interested in practical and creative solutions
+- 🛠️ Enjoy exploring software and technology
+- 📚 Growing through study, experiments, and projects
+
+## My goals
+
+I hope to keep learning, create meaningful projects, and connect with others who enjoy technology and open-source work.
+
+Thanks for visiting my profile! ⭐
